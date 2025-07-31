@@ -118,7 +118,7 @@ tool_data = {
 
 resources = {
     'inventory': {
-        'Wood': 1000,
+        'Wood': 0,
         'Stone': 0,
         'Coal' : 0,
         'Copper': 0,
